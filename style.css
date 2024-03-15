@@ -50,11 +50,23 @@ body {
     padding: 24px 0;
 }
 .estudante-imagem{
-    width: 120px;
+    width: 18%;
+}
+
+.estudante1-imagem{
+    width: 13%;
+}
+
+.estudante2-imagem{
+    width: 14%;
+}
+
+.estudante3-imagem{
+    width: 11%;
 }
 
 .estudante-icone{
-    width: 24px;
+    width: 35px;
     padding: 4px 8px;
 }
 
