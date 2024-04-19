@@ -1,2 +1,2 @@
-# site-escola-2b
-projeto montando um site para a nossa escola
+# site-escola-2B
+Projeto montando um site para a nossa escola. 

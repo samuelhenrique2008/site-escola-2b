@@ -79,3 +79,7 @@ body {
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
+
+.funcionarios{
+    width: 35%;
+}
